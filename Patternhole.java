@@ -1,5 +1,10 @@
 /**
- * patternHole for interview question
+    patternHole for interview question
+            *****
+            *   *
+            *   *
+            *   *
+            *****
  */
 public class Patternhole {
     public static void main(String[] args) {
